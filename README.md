@@ -1,5 +1,5 @@
 # TicTacToe
-A simple Tic Tac Toe game I make in Java to explore the horror that is swing
+A simple Tic Tac Toe game I made in Java to explore the horror that is swing
 
 This was a start to learning to what extent I could use swing for a game renderer/window/input manager, which of cource is a bad 
 idea if you've ever used swing. It was also an attempt to create a project that conforms to the MVC paradigm, which is quite 
